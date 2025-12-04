@@ -1,0 +1,17 @@
+# Training
+torch>=2.1.0
+deepspeed>=0.13.0
+transformers>=4.41.0
+peft>=0.12.0
+accelerate>=0.32.0
+datasets>=2.19.0
+sentencepiece>=0.1.99
+wandb>=0.16.0
+
+# Inference
+vllm>=0.5.0
+pandas>=2.2.0
+openpyxl>=3.1.2
+
+# Framework
+# LLaMA-Factory is required for training; install it from source or your pinned fork (see README).

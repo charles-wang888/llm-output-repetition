@@ -1,0 +1,12 @@
+{
+  "generalized_dpo_preference_dataset": {
+    "file_name": "/data/llm/LLaMA-Factory-24090501/sun/data/generalized_dpo_preference_dataset.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  }
+}
